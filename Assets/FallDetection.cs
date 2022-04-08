@@ -5,17 +5,13 @@ using UnityEngine;
 public class FallDetection : MonoBehaviour
 {
 
-    [SerializeField] private Transform player;
-    [SerializeField] private Transform respawnPoint;
 
-    void OnTriggerEnter(Collider other)
+    void FixedUpdate()
     {
-        if (other.gameObject.name == "PlayerCapsule")
+        if (transform.position.y < -3f)
         {
-            player.transform.position = respawnPoint.transform.position;
-            Debug.Log("test");
+            this.transform.position = new Vector3(0f, 0f, -5f);
         }
-        
     }
 
 }
