@@ -17,6 +17,16 @@ I wanted to explore more how to make parkour fair but also challenging. I also w
 3. Should the environment of the parkour be in a city or a farm? 
 4. Is the first parkour level became too easy or it's at a decent difficulty?
 
+# Reflection and Feedback
+
+For my final game, I wanted to find the perfect balance in order to make the game challenging as well as not impossible. In this case, I tried to increase the difficulty increase bit by bit. From the feedback, I wanted to make the environment more aesthetically pleasing so I made it into a city. I still have a problem with a collider where my cow would get stuck into the platform. 
+
+Improvements to make for final game 
+
+- Environment
+- Small camera ajustment
+- Better parkour levels
+
 
 
 # Mookour - Prototype 01
