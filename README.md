@@ -1,3 +1,24 @@
+# Mookour - Iteration Prototype
+
+# Design hypothesis
+
+I wanted to explore more how to make parkour fair but also challenging. I also wanted to keep my theme of a cow doing parkour. In this prototype, I fixed the main bugs that were encountered by all my playtesters. I also started to work on the second level of the parkour. However, for this prototype I want to make the environment more fit for the cow so maybe a farm environment. For the final, I was thinking of making a main menu and refine the whole game.
+
+# Fixes and added things
+
+- Changed the camera
+- Put different platforms (not the angled ramp anymore)
+- Added background music
+
+# Questions
+
+1. Is the camera position better?
+2. Does the soundtrack fit the game or should it be more upbeat?
+3. Should the environment of the parkour be in a city or a farm? 
+4. Is the first parkour level became too easy or it's at a decent difficulty?
+
+
+
 # Mookour - Prototype 01
 
 
